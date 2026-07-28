@@ -1,10 +1,20 @@
+let database;
+let currentPoint = 0;
 async function loadDatabase() {
 
     const response = await fetch("database/master_database.json");
 
-    const database = await response.json();
+    database = await response.json();
 
-    const point = database.points[0];
+    showPoint();
+
+}
+
+loadDatabase();
+
+function showPoint() {
+
+    const point = database.points[currentPoint];
 
     document.getElementById("progress").textContent =
         `Bod ${point.roadbookOrder} / ${database.points.length}`;
@@ -12,7 +22,7 @@ async function loadDatabase() {
     document.getElementById("type").textContent =
         point.type === "waypoint"
             ? "🟢 WAYPOINT"
-            : "🚩 CHECKPOINT";
+            : `🚩 CHECKPOINT ${point.checkpointNumber}`;
 
     document.getElementById("title").textContent =
         point.title;
@@ -22,4 +32,14 @@ async function loadDatabase() {
 
 }
 
-loadDatabase();
+document.getElementById("nextButton").addEventListener("click", () => {
+
+    if (currentPoint < database.points.length - 1) {
+
+        currentPoint++;
+
+        showPoint();
+
+    }
+
+});
