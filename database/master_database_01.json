@@ -1,0 +1,132 @@
+{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 1,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 48.7729519,
+        "lon": 17.0131886
+      },
+      "description": "START 1.8. 2026 9:00 hod. TÝNEC – JIŽNÍ MORAVA : souřadnice startu 48.7729519N, 17.0131886E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 2,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.8122833,
+        "lon": 17.6371163
+      },
+      "description": "PRŮJEZDNÝ BOD 44.8122833N, 17.6371163E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 3,
+      "type": "checkpoint",
+      "checkpointNumber": 1,
+      "title": "Checkpoint 1",
+      "gps": {
+        "lat": 44.8074706,
+        "lon": 17.6626442
+      },
+      "description": "1. 44.8074706N, 17.6626442E - ÚKOL",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 4,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.7688459,
+        "lon": 17.6508282
+      },
+      "description": "PRŮJEZDNÝ BOD 44.7688459N, 17.6508282E – vyhlídka s posezením, ideální místo třeba na snídani",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 5,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.6251573,
+        "lon": 17.5745202
+      },
+      "description": "PRŮJEZDNÝ BOD 44.6251573N, 17.5745202E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 6,
+      "type": "checkpoint",
+      "checkpointNumber": 2,
+      "title": "Checkpoint 2",
+      "gps": {
+        "lat": 44.5862889,
+        "lon": 17.5937915
+      },
+      "description": "2. 44.5862889N, 17.5937915E Pomník - ÚKOL Na první pohled nenápadná pamětní deska připomíná jednu z tragických kapitol druhé světové války na území Bosny a Hercegoviny. Právě na tomto místě padlo dvanáct bojovníků 5. kozarské úderné brigády, kteří během bojů chránili místní civilní obyvatelstvo před německými okupačními jednotkami a jejich spojenci. Oblast kolem Tesliće byla během války dějištěm tvrdých střetů mezi partyzány a okupačními silami. Mnoho podobných pomníků dnes připomíná odvahu lidí, kteří zde bojovali i obětovali své životy za svobodu.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 7,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.572648,
+        "lon": 17.5608004
+      },
+      "description": "PRŮJEZDNÝ BOD 44.5726480N, 17.5608004E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 8,
+      "type": "checkpoint",
+      "checkpointNumber": 3,
+      "title": "Checkpoint 3",
+      "gps": {
+        "lat": 44.55054,
+        "lon": 17.49369
+      },
+      "description": "3. 44.5505400N, 17.4936900E Kapradinový háj - ŠTÍTEK Vždycky jsme si mysleli, že kapradiny patří hlavně do vlhkých mokřadů a stinných lesů. Tohle místo nám ale ukázalo, jak moc jsme se mýlili. Kam se podíváte, tam jsou kapradiny. Obrovské zelené koberce pokrývají celé svahy a vytvářejí scenérii, která působí skoro jako z pravěku. Tolik kapradin pohromadě jsme ještě nikdy neviděli a přišla nám škoda se o tohle místo s vámi nepodělit.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 9,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.4154727,
+        "lon": 17.6070726
+      },
+      "description": "PRŮJEZDNÝ BOD 44.4154727N, 17.6070726E Nelekejte se zákazové cedule. Jsme domluveni s místním starostou a máme dovolený průjezd územím, které běžně slouží jen místním. Kousek za tímto bodem je krátká obydlená část. APELUJEME NA VÁS DŮRAZNĚ: jezdit zde pomalu, ať se nepráší a nikoho neohrozíte. Díky",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 10,
+      "type": "checkpoint",
+      "checkpointNumber": 4,
+      "title": "Checkpoint 4",
+      "gps": {
+        "lat": 44.3603602,
+        "lon": 17.7008022
+      },
+      "description": "4. 44.3603602N, 17.7008022E Montážní jáma – ŠTÍTEK Tomuto místu říkáme pracovně první servisní zóna. A jako bonus v minovém poli. Takže pozor!",
+      "taskType": "",
+      "image": ""
+    }
+  ]
+}
