@@ -1,38 +1,43 @@
 {
   "expedition": {
     "name": "Expedice Pilátů z Kalibiku",
-    "version": "0.1",
-    "year": 2026,
-    "authors": [
-      "Andrea Svobodová",
-      "Tomáš Slunečko"
-    ]
+    "version": "0.1"
   },
 
-  "checkpoints": [{
-  "id": 1,
-  "name": "První offroad",
-  "type": "ÚKOL",
-  "latitude": 44.8074706,
-  "longitude": 17.6626442,
-  "mapy": "https://mapy.com/?x=17.6626442&y=44.8074706&z=17",
-  "description": "Přejezdů po silnicích bylo dost, dáme si na začátek trochu lehčího offroadu.",
-  "drivepoints": [
+  "points": [
     {
-      "latitude": 44.8122833,
-      "longitude": 17.6371163
+      "roadbookOrder": 1,
+      "type": "waypoint",
+      "title": "Vyhlídka",
+      "gps": {
+        "lat": 44.8122833,
+        "lon": 17.6371163
+      },
+      "summary": "Vyhlídka s posezením."
     },
-    {
-      "latitude": 44.7688459,
-      "longitude": 17.6508282,
-      "note": "Vyhlídka s posezením, ideální místo na snídani"
-    },
-    {
-      "latitude": 44.6251573,
-      "longitude": 17.5745202
-    }
-  ]
-}
 
+    {
+      "roadbookOrder": 2,
+      "type": "checkpoint",
+      "checkpointNumber": 1,
+      "title": "První offroad",
+      "gps": {
+        "lat": 44.8074706,
+        "lon": 17.6626442
+      },
+      "summary": "Přejezdů po silnicích bylo dost, dáme si lehký offroad.",
+      "description": "Zde bude celý text z roadbooku."
+    },
+
+    {
+      "roadbookOrder": 3,
+      "type": "waypoint",
+      "title": "Vyhlídka na údolí",
+      "gps": {
+        "lat": 44.7688459,
+        "lon": 17.6508282
+      },
+      "summary": "Krásný výhled."
+    }
   ]
 }
