@@ -51,6 +51,10 @@ function showPoint() {
     document.getElementById("progress").textContent =
         `Bod ${point.roadbookOrder} / ${database.points.length}`;
 
+    // souřadnice
+    document.getElementById("coordinates").textContent =
+        `📍 ${point.gps.lat}, ${point.gps.lon}`;
+
     // waypoint / checkpoint
     if (point.type === "checkpoint") {
 
@@ -70,7 +74,7 @@ function showPoint() {
 
     // popis
     document.getElementById("summary").textContent =
-        point.summary;
+        point.description;
 
     // uložit poslední bod
     localStorage.setItem("currentPoint", currentPoint);
@@ -132,6 +136,21 @@ function navigate() {
 }
 
 // ==========================
+// Kopírování souřadnic
+// ==========================
+function copyCoordinates() {
+
+    const point = database.points[currentPoint];
+
+    navigator.clipboard.writeText(
+        `${point.gps.lat}, ${point.gps.lon}`
+    );
+
+    alert("Souřadnice byly zkopírovány.");
+
+}
+
+// ==========================
 // Události
 // ==========================
 document.addEventListener("DOMContentLoaded", () => {
@@ -147,6 +166,10 @@ document.addEventListener("DOMContentLoaded", () => {
     document
         .getElementById("navigateButton")
         .addEventListener("click", navigate);
+
+    document
+        .getElementById("coordinates")
+        .addEventListener("click", copyCoordinates);
 
     loadDatabase();
 
