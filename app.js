@@ -1,22 +1,25 @@
-// Načtení prvního bodu z databáze
-const point = {
-    roadbookOrder: 1,
-    type: "waypoint",
-    title: "Vyhlídka",
-    summary: "Vyhlídka s posezením."
-};
+async function loadDatabase() {
 
-// Vyplnění stránky daty
-document.getElementById("progress").textContent =
-    `Bod ${point.roadbookOrder} / 126`;
+    const response = await fetch("database/master_database.json");
 
-document.getElementById("type").textContent =
-    point.type === "waypoint"
-        ? "🟢 WAYPOINT"
-        : "🚩 CHECKPOINT";
+    const database = await response.json();
 
-document.getElementById("title").textContent =
-    point.title;
+    const point = database.points[0];
 
-document.getElementById("summary").textContent =
-    point.summary;
+    document.getElementById("progress").textContent =
+        `Bod ${point.roadbookOrder} / ${database.points.length}`;
+
+    document.getElementById("type").textContent =
+        point.type === "waypoint"
+            ? "🟢 WAYPOINT"
+            : "🚩 CHECKPOINT";
+
+    document.getElementById("title").textContent =
+        point.title;
+
+    document.getElementById("summary").textContent =
+        point.summary;
+
+}
+
+loadDatabase();
