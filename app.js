@@ -16,7 +16,6 @@ async function loadDatabase() {
 
         database = await response.json();
 
-        // načtení posledního bodu
         const saved = parseInt(localStorage.getItem("currentPoint"));
 
         if (
@@ -47,15 +46,12 @@ function showPoint() {
 
     const point = database.points[currentPoint];
 
-    // pořadí
     document.getElementById("progress").textContent =
         `Bod ${point.roadbookOrder} / ${database.points.length}`;
 
-    // souřadnice
     document.getElementById("coordinates").textContent =
         `📍 ${point.gps.lat}, ${point.gps.lon}`;
 
-    // waypoint / checkpoint
     if (point.type === "checkpoint") {
 
         document.getElementById("type").textContent =
@@ -68,18 +64,14 @@ function showPoint() {
 
     }
 
-    // název
     document.getElementById("title").textContent =
         point.title;
 
-    // popis
     document.getElementById("summary").textContent =
         point.description;
 
-    // uložit poslední bod
     localStorage.setItem("currentPoint", currentPoint);
 
-    // deaktivace tlačítek
     document.getElementById("previousButton").disabled =
         currentPoint === 0;
 
@@ -96,7 +88,6 @@ function nextPoint() {
     if (currentPoint < database.points.length - 1) {
 
         currentPoint++;
-
         showPoint();
 
     }
@@ -111,7 +102,6 @@ function previousPoint() {
     if (currentPoint > 0) {
 
         currentPoint--;
-
         showPoint();
 
     }
@@ -128,10 +118,8 @@ function navigate() {
     const lat = point.gps.lat;
     const lon = point.gps.lon;
 
-    window.open(
-        `https://mapy.com/turisticka?x=${lon}&y=${lat}&z=17`,
-        "_blank"
-    );
+    window.location.href =
+        `https://mapy.com/fnc/v1/route?end=${lon},${lat}&routeType=car_fast&navigate=true`;
 
 }
 
