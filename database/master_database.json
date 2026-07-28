@@ -9,7 +9,30 @@
     ]
   },
 
-  "checkpoints": [
+  "checkpoints": [{
+  "id": 1,
+  "name": "První offroad",
+  "type": "ÚKOL",
+  "latitude": 44.8074706,
+  "longitude": 17.6626442,
+  "mapy": "https://mapy.com/?x=17.6626442&y=44.8074706&z=17",
+  "description": "Přejezdů po silnicích bylo dost, dáme si na začátek trochu lehčího offroadu.",
+  "drivepoints": [
+    {
+      "latitude": 44.8122833,
+      "longitude": 17.6371163
+    },
+    {
+      "latitude": 44.7688459,
+      "longitude": 17.6508282,
+      "note": "Vyhlídka s posezením, ideální místo na snídani"
+    },
+    {
+      "latitude": 44.6251573,
+      "longitude": 17.5745202
+    }
+  ]
+}
 
   ]
 }
