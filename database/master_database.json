@@ -6,8 +6,9 @@
     "lat": 44.8122833,
     "lon": 17.6371163
   },
-  "summary": "Průjezdný bod na začátku expedice.",
+  "summary": "Začátek doporučené trasy.",
   "description": "",
+  "taskType": "",
   "image": ""
 },
 {
@@ -19,7 +20,7 @@
     "lat": 44.8074706,
     "lon": 17.6626442
   },
-  "summary": "Lehký offroad na začátek expedice.",
+  "summary": "První lehký offroad.",
   "description": "Přejezdů po silnicích bylo dost, dáme si na začátek trochu lehčího offroadu. Za tímto bodem k bodu dva a i u něho je dostatek prostoru na vaše případné kempování první noc expedice.",
   "taskType": "ÚKOL",
   "image": ""
@@ -32,8 +33,9 @@
     "lat": 44.7688459,
     "lon": 17.6508282
   },
-  "summary": "Vyhlídka s posezením, ideální místo třeba na snídani.",
+  "summary": "Vyhlídka s posezením, ideální místo na snídani.",
   "description": "",
+  "taskType": "",
   "image": ""
 },
 {
@@ -46,5 +48,141 @@
   },
   "summary": "Pokračování po doporučené trase.",
   "description": "",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 5,
+  "type": "checkpoint",
+  "checkpointNumber": 2,
+  "title": "Pomník",
+  "gps": {
+    "lat": 44.5862889,
+    "lon": 17.5937915
+  },
+  "summary": "Památník připomínající události druhé světové války.",
+  "description": "Na první pohled nenápadná pamětní deska připomíná jednu z tragických kapitol druhé světové války na území Bosny a Hercegoviny. Právě na tomto místě padlo dvanáct bojovníků 5. kozarské úderné brigády, kteří během bojů chránili místní civilní obyvatelstvo před německými okupačními jednotkami a jejich spojenci.",
+  "taskType": "ÚKOL",
+  "image": ""
+},
+{
+  "roadbookOrder": 6,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.5726480,
+    "lon": 17.5608004
+  },
+  "summary": "Pokračování trasy.",
+  "description": "",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 7,
+  "type": "waypoint",
+  "title": "Kapradinové svahy",
+  "gps": {
+    "lat": 44.4154727,
+    "lon": 17.6070726
+  },
+  "summary": "Obrovské porosty kapradin. Jezděte pomalu, projíždíte obydlenou oblastí.",
+  "description": "Průjezd povolen po dohodě s místním starostou. Jeďte pomalu a neprášte.",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 8,
+  "type": "checkpoint",
+  "checkpointNumber": 4,
+  "title": "Montážní jáma",
+  "gps": {
+    "lat": 44.3603602,
+    "lon": 17.7008022
+  },
+  "summary": "První servisní zóna.",
+  "description": "Tomuto místu říkáme pracovně první servisní zóna. A jako bonus v minovém poli. Takže pozor!",
+  "taskType": "ŠTÍTEK",
+  "image": ""
+},
+{
+  "roadbookOrder": 9,
+  "type": "checkpoint",
+  "checkpointNumber": 5,
+  "title": "Monument na hoře Vlašić",
+  "gps": {
+    "lat": 44.3343126,
+    "lon": 17.6589453
+  },
+  "summary": "Monument věnovaný generálu Mehmedu Alagićovi.",
+  "description": "Monument připomíná jednu z nejvýznamnějších vojenských operací bosenské války a velitele Mehmeda Alagiće.",
+  "taskType": "ÚKOL",
+  "image": ""
+},
+{
+  "roadbookOrder": 10,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.3104667,
+    "lon": 17.6359471
+  },
+  "summary": "Pokračování trasy.",
+  "description": "",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 11,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.3165334,
+    "lon": 17.6252985
+  },
+  "summary": "Pokračování trasy.",
+  "description": "",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 12,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.2881271,
+    "lon": 17.6204544
+  },
+  "summary": "Pokračování trasy.",
+  "description": "",
+  "taskType": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 13,
+  "type": "checkpoint",
+  "checkpointNumber": 6,
+  "title": "Radarová základna Paljenik",
+  "gps": {
+    "lat": 44.2919541,
+    "lon": 17.6344312
+  },
+  "summary": "Bývalá radarová základna JNA.",
+  "description": "Rozsáhlý podzemní vojenský komplex. V okolí mohou být zaminované oblasti.",
+  "taskType": "ŠTÍTEK",
+  "image": ""
+},
+{
+  "roadbookOrder": 14,
+  "type": "checkpoint",
+  "checkpointNumber": 7,
+  "title": "Vyhlídka útesy",
+  "gps": {
+    "lat": 44.2719981,
+    "lon": 17.6309356
+  },
+  "summary": "Ideální místo na svačinu s krásným výhledem.",
+  "description": "Pecka místo, ideální na zastávku, rozbalit svačinku a kochat se výhledem.",
+  "taskType": "ŠTÍTEK",
   "image": ""
 }
