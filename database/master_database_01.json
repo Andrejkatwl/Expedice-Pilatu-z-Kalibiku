@@ -130,3 +130,665 @@
     }
   ]
 }
+{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 11,
+      "type": "checkpoint",
+      "checkpointNumber": 5,
+      "title": "Checkpoint 5",
+      "gps": {
+        "lat": 44.3343126,
+        "lon": 17.6589453
+      },
+      "description": "5. 44.3343126N, 17.6589453E Monument na hoře Vlašić – ÚKOL Ljiljan Ljuta greda je monument na počest legendárního velitele Armády Bosny a Hercegoviny, generála Mehmeda Alagiće. Byl slavnostně otevřen 4.srpna 2024 a jeho výška je 17 metrů. Ljuta greda na Vlašići byla klíčovým bodem, odkud v březnu 1995 začala jedna z nejvýznamnějších vojenských operací, při které 7. armáda pod Alagićovým velením osvobodila horu Vlašić. Tato operace se zapsala do dějin jako bosenské jaro. Mehmed Alagić (1947–2003) patřil k nejuznávanějším stratégům bosenské války.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 12,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.3104667,
+        "lon": 17.6359471
+      },
+      "description": "PRŮJEZDNÝ BOD 44.3104667N, 17.6359471E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 13,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.3165334,{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 21,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2457356,
+        "lon": 17.336285
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2457356N, 17.3362850E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 22,
+      "type": "checkpoint",
+      "title": "Checkpoint 9",
+      "gps": {
+        "lat": 44.2105239,
+        "lon": 17.2611539
+      },
+      "description": "9. 44.2105239N, 17.2611539E – Kameny - ŠTÍTEK",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 9
+    },
+    {
+      "roadbookOrder": 23,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2748951,
+        "lon": 17.029116
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2748951N, 17.0291160E – před tímto bodem budete projíždět městem Šipovo, kde je na delší čas poslední možnost tankování. Doporučujeme využít.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 24,
+      "type": "checkpoint",
+      "title": "Checkpoint 10",
+      "gps": {
+        "lat": 44.2150223,
+        "lon": 16.9159229
+      },
+      "description": "10. 44.2150223N, 16.9159229E Rozcestí - ŠTÍTEK",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 10
+    },
+    {
+      "roadbookOrder": 25,
+      "type": "checkpoint",
+      "title": "Checkpoint 11",
+      "gps": {
+        "lat": 44.1189246,
+        "lon": 17.0449091
+      },
+      "description": "11. 44.1189246N, 17.0449091E Radarová základna Veliki Vitorog - ŠTÍTEK Bývalý tajný vojenský objekt a radarový uzel Jugoslávské lidové armády. Nachází se na samotném vrcholu hory Veliki Vitorog v nadmořské výšce 1906 metrů. Sloužil jako strategický komunikační bod a radarová stanice JNA pro sledování vzdušného prostoru. Z vrcholu se otevírá panoramatický výhled na okolní balkánské horské masivy – určitě doporučujeme pro parádní fotky, nebo videa dojet právě až na samotný vrchol této hory. Tohle místo připomíná dobu, kdy byl Balkán rozdělen železnou oponou a podobné objekty měly zásadní vojenský význam. Dnes sem návštěvníky láká právě hlavně neuvěřitelný výhled a atmosféra opuštěné vojenské historie. Od tohoto bodu pozor na minová pole, která jsou prakticky až po konec následujících planin.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 11
+    },
+    {
+      "roadbookOrder": 26,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.1543976,
+        "lon": 16.9738716
+      },
+      "description": "PRŮJEZDNÝ BOD 44.1543976N, 16.9738716E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 27,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.0928319,
+        "lon": 16.914227
+      },
+      "description": "PRŮJEZDNÝ BOD 44.0928319N, 16.9142270E rychlá šotolinová erzeta",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 28,
+      "type": "checkpoint",
+      "title": "Checkpoint 12",
+      "gps": {
+        "lat": 44.0474199,
+        "lon": 16.9989907
+      },
+      "description": "12. 44.0474199N, 16.9989907E Glamočské planiny, závrtová krajina - ŠTÍTEK Tyto planiny představují jeden z nejúchvatnějších a nejintenzivnějších projevů závrtové krajiny (tzv. krasových jam či vrtačí) v celé Evropě. Podklad tvoří silné vrstvy rozpustného vápence. Srážková voda vápencové podloží po tisíciletí leptala a stékala do podzemí, čímž vytvořila hustou síť povrchových depresí – závrtů. Hlavní koridor této extrémní závrtové krajiny začíná u kompletně opuštěné vesnice Vagan. Právě v úseku mezi Vaganem a městečkem Glamoč dosahuje koncentrace krasových jam svého vrcholu. Místní obyvatelé historicky využívali dna větších závrtů k pěstování plodin (zejména vyhlášených glamočských brambor). Na dnech kráterů se totiž usazuje úrodnější červenozem (terra rossa) a drží se tam vlhkost. Extrémně zvlněné planiny ostře kontrastují s plochým dnem přilehlého krasového pole Glamočko polje, které se v období dešťů může proměnit v dočasné jezero.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 12
+    },
+    {
+      "roadbookOrder": 29,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.0024823,
+        "lon": 17.0139277
+      },
+      "description": "PRŮJEZDNÝ BOD 44.0024823N, 17.0139277E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 30,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.9531496,
+        "lon": 17.0776865
+      },
+      "description": "PRŮJEZDNÝ BOD 43.9531496N, 17.0776865E – nyní jste přímo uprostřed minového pole",
+      "taskType": "",
+      "image": ""
+    }
+  ]
+}
+        "lon": 17.6252985
+      },
+      "description": "PRŮJEZDNÝ BOD 44.3165334N, 17.6252985E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 14,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2881271,
+        "lon": 17.6204544
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2881271N, 17.6204544E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 15,
+      "type": "checkpoint",
+      "checkpointNumber": 6,
+      "title": "Checkpoint 6",
+      "gps": {
+        "lat": 44.2919541,
+        "lon": 17.6344312
+      },
+      "description": "6. 44.2919541N, 17.6344312E Radarová základna Paljenik – ŠTÍTEK Jedná se o strategický, původně přísně tajný objekt bývalé Jugoslávské lidové armády, který sloužil jako klíčové komunikační centrum. Nadmořská výška je 1933 m.n.m. Pod viditelnými povrchovými strukturami a telekomunikační věží vybudovala JNA rozsáhlou síť podzemních tunelů, bunkrů a velitelských stanovišť chráněných před bombardováním. Vzhledem k intenzivním bojům během války v 90. letech se v širším okolí masivu Vlašić stále mohou nacházet zaminované oblasti. Tohle místo stojí za důkladnou prohlídku. Milovníci urbexu si tady určitě přijdou na své. Komplex je fakt obrovský.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 16,
+      "type": "checkpoint",
+      "checkpointNumber": 7,
+      "title": "Checkpoint 7",
+      "gps": {
+        "lat": 44.2719981,
+        "lon": 17.6309356
+      },
+      "description": "7. 44.2719981N, 17.6309356E Vyhlídka útesy – ŠTÍTEK Pecka místo, ideální na zastávku, rozbalit svačinku a kochat se výhledem. Dolů vás pak čeká příjemná šotolinová cesta - opět plná nádherných výhledů na okolní hory a skalní masivy.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 17,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2741214,
+        "lon": 17.6473408
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2741214N, 17.6473408E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 18,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2504036,
+        "lon": 17.6803258
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2504036N, 17.6803258E z tohoto bodu pokračujte dál přes město Travnik, můžete natankovat, nakoupit zásoby,…",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 19,
+      "type": "checkpoint",
+      "checkpointNumber": 8,
+      "title": "Checkpoint 8",
+      "gps": {
+        "lat": 44.2628913,
+        "lon": 17.4319909
+      },
+      "description": "8. 44.2628913N, 17.4319909E Překvapení - ÚKOL Jaké překvapení vás tady čeká se dozvíte v soutěžní listině, kterou obdržíte na startu. O zábavu tady bude rozhodně postaráno.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 20,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2688392,
+        "lon": 17.3874386
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2688392N, 17.3874386E",
+      "taskType": "",
+      "image": ""
+    }
+  ]
+}
+{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 21,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2457356,
+        "lon": 17.336285
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2457356N, 17.3362850E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 22,
+      "type": "checkpoint",
+      "title": "Checkpoint 9",
+      "gps": {
+        "lat": 44.2105239,
+        "lon": 17.2611539
+      },
+      "description": "9. 44.2105239N, 17.2611539E – Kameny - ŠTÍTEK",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 9
+    },
+    {
+      "roadbookOrder": 23,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.2748951,
+        "lon": 17.029116
+      },
+      "description": "PRŮJEZDNÝ BOD 44.2748951N, 17.0291160E – před tímto bodem budete projíždět městem Šipovo, kde je na delší čas poslední možnost tankování. Doporučujeme využít.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 24,
+      "type": "checkpoint",
+      "title": "Checkpoint 10",
+      "gps": {
+        "lat": 44.2150223,
+        "lon": 16.9159229
+      },
+      "description": "10. 44.2150223N, 16.9159229E Rozcestí - ŠTÍTEK",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 10
+    },
+    {
+      "roadbookOrder": 25,
+      "type": "checkpoint",
+      "title": "Checkpoint 11",
+      "gps": {
+        "lat": 44.1189246,
+        "lon": 17.0449091
+      },
+      "description": "11. 44.1189246N, 17.0449091E Radarová základna Veliki Vitorog - ŠTÍTEK Bývalý tajný vojenský objekt a radarový uzel Jugoslávské lidové armády. Nachází se na samotném vrcholu hory Veliki Vitorog v nadmořské výšce 1906 metrů. Sloužil jako strategický komunikační bod a radarová stanice JNA pro sledování vzdušného prostoru. Z vrcholu se otevírá panoramatický výhled na okolní balkánské horské masivy – určitě doporučujeme pro parádní fotky, nebo videa dojet právě až na samotný vrchol této hory. Tohle místo připomíná dobu, kdy byl Balkán rozdělen železnou oponou a podobné objekty měly zásadní vojenský význam. Dnes sem návštěvníky láká právě hlavně neuvěřitelný výhled a atmosféra opuštěné vojenské historie. Od tohoto bodu pozor na minová pole, která jsou prakticky až po konec následujících planin.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 11
+    },
+    {
+      "roadbookOrder": 26,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.1543976,
+        "lon": 16.9738716
+      },
+      "description": "PRŮJEZDNÝ BOD 44.1543976N, 16.9738716E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 27,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.0928319,
+        "lon": 16.914227
+      },
+      "description": "PRŮJEZDNÝ BOD 44.0928319N, 16.9142270E rychlá šotolinová erzeta",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 28,
+      "type": "checkpoint",
+      "title": "Checkpoint 12",
+      "gps": {
+        "lat": 44.0474199,
+        "lon": 16.9989907
+      },
+      "description": "12. 44.0474199N, 16.9989907E Glamočské planiny, závrtová krajina - ŠTÍTEK Tyto planiny představují jeden z nejúchvatnějších a nejintenzivnějších projevů závrtové krajiny (tzv. krasových jam či vrtačí) v celé Evropě. Podklad tvoří silné vrstvy rozpustného vápence. Srážková voda vápencové podloží po tisíciletí leptala a stékala do podzemí, čímž vytvořila hustou síť povrchových depresí – závrtů. Hlavní koridor této extrémní závrtové krajiny začíná u kompletně opuštěné vesnice Vagan. Právě v úseku mezi Vaganem a městečkem Glamoč dosahuje koncentrace krasových jam svého vrcholu. Místní obyvatelé historicky využívali dna větších závrtů k pěstování plodin (zejména vyhlášených glamočských brambor). Na dnech kráterů se totiž usazuje úrodnější červenozem (terra rossa) a drží se tam vlhkost. Extrémně zvlněné planiny ostře kontrastují s plochým dnem přilehlého krasového pole Glamočko polje, které se v období dešťů může proměnit v dočasné jezero.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 12
+    },
+    {
+      "roadbookOrder": 29,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 44.0024823,
+        "lon": 17.0139277
+      },
+      "description": "PRŮJEZDNÝ BOD 44.0024823N, 17.0139277E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 30,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.9531496,
+        "lon": 17.0776865
+      },
+      "description": "PRŮJEZDNÝ BOD 43.9531496N, 17.0776865E – nyní jste přímo uprostřed minového pole",
+      "taskType": "",
+      "image": ""
+    }
+  ]
+}
+{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 31,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.941591,
+        "lon": 17.1837063
+      },
+      "description": "PRŮJEZDNÝ BOD 43.9415910N, 17.1837063E – sjezdovka. Pokud jste nevyužili tankování, tak doporučujeme z tohoto bodu opět dotankovat. Při příjezdu na hlavní se dejte doleva a dojedete k čerpací stanici, která není v mapách.",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 32,
+      "type": "checkpoint",
+      "title": "Checkpoint 13",
+      "gps": {
+        "lat": 43.8595306,
+        "lon": 17.1875876
+      },
+      "description": "13. 43.8595306N, 17.1875876E Kříž s vyhlídkou – ÚKOL Kříž je věnován místním obráncům, kteří se zapojili do bojů během chorvatské války za nezávislost. Na desce je vytesán známý chorvatský citát „Za kříž čestný a svobodu zlatou“, symbolizující odvahu, víru a boj za svobodu. Dnes je toto místo nejen připomínkou nedávné historie Balkánu, ale také krásnou vyhlídkou na okolní horskou krajinu. Přestože od války uplynulo více než třicet let, podobné památníky jsou dodnes součástí každodenního života a připomínají, jak vysokou cenu musel Balkán za svou svobodu zaplatit.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 13
+    },
+    {
+      "roadbookOrder": 33,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.8478853,
+        "lon": 17.2221478
+      },
+      "description": "PRŮJEZDNÝ BOD 43.8478853N, 17.2221478E – průjezd po hřebenech přímo pod větrnými elektrárnami",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 34,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.7993175,
+        "lon": 17.2155443
+      },
+      "description": "PRŮJEZDNÝ BOD 43.7993175N, 17.2155443E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 35,
+      "type": "checkpoint",
+      "title": "Checkpoint 14",
+      "gps": {
+        "lat": 43.8205256,
+        "lon": 17.4756232
+      },
+      "description": "14. 43.8205256N, 17.4756232E Ramsko jezero vyhlídka – ŠTÍTEK Toto umělé jezero, které vzniklo v roce 1968 zatopením údolí řeky Rama, patří díky své tyrkysové vodě, členitému pobřeží a okolním horským hřebenům k nejkrásnějším a nejfotogeničtějším místům v celé zemi. Při nízkém stavu vody (hladina může kolísat až o 50 metrů) vystupují z vody pozůstatky zatopených vesnic, staré náhrobky i základy minaretu. Jezero dosahuje délky přibližně 12 kilometrů, rozlohy 14,8 km² a jeho maximální hloubka je 95 metrů. Díky členitému pobřeží s desítkami zátok a ostrůvků připomíná z ptačí perspektivy norské fjordy. Místní silnice kolem jezera patří k nejkrásnějším vyhlídkovým trasám v Bosně a Hercegovině, takže se rozhodně vyplatí na chvíli zastavit, vystoupit z auta a nasát atmosféru tohoto opravdu nádherného místa.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 14
+    },
+    {
+      "roadbookOrder": 36,
+      "type": "checkpoint",
+      "title": "Checkpoint 15",
+      "gps": {
+        "lat": 43.6970531,
+        "lon": 17.5328075
+      },
+      "description": "15. 43.6970531N, 17.5328075E Ideální místo na opravdu klidnou svačinku - ÚKOL",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 15
+    },
+    {
+      "roadbookOrder": 37,
+      "type": "checkpoint",
+      "title": "Checkpoint 16",
+      "gps": {
+        "lat": 43.6163466,
+        "lon": 17.4956839
+      },
+      "description": "16. 43.6163466N, 17.4956839E Betonový kříž s výhledem na Blidinje jezero a Pločno – ŠTÍTEK Přírodní park Blidinje patří k nejkrásnějším horským oblastem Bosny a Hercegoviny. Rozkládá se na ploše 364 km² mezi pohořími Čvrsnica, Čabulja a Vran a jeho srdcem je Blidinjské jezero – nejvýše položené přírodní horské jezero v zemi. Rozlohu má zhruba 6 km² a jeho maximální hloubka dosahuje jen přibližně 4 metrů. Na následujících checkpointech si společně projedeme velkou část tohoto nádherného národního parku, čekají vás horské pláně, nekonečné výhledy, šotolinové cesty i místa, na která se jen tak nezapomíná. Jdeme na to!!!",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 16
+    },
+    {
+      "roadbookOrder": 38,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.5864411,
+        "lon": 17.4976986
+      },
+      "description": "PRŮJEZDNÝ BOD 43.5864411N, 17.4976986E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 39,
+      "type": "checkpoint",
+      "title": "Checkpoint 17",
+      "gps": {
+        "lat": 43.5967603,
+        "lon": 17.5636303
+      },
+      "description": "17. 43.5967603N, 17.5636303E Hora Pločno – ŠTÍTEK Jen málokteré místo na Balkáně dokáže nabídnout takovou kombinaci divoké horské krajiny a nekonečných výhledů jako právě Pločno. Se svými 2 228 metry nad mořem je nejvyšším vrcholem pohoří Čvrsnica a zároveň nejvyšším bodem celé naší letošní expedice. Výjezd až sem je odměnou sám o sobě – čeká vás několik kilometrů jízdy krajinou, která působí téměř nedotčeně člověkem. Na vrcholu si uvědomíte, jak rozlehlá Bosna a Hercegovina ve skutečnosti je. Za dobrého počasí dohlédnete na vzdálené horské masivy i hluboko do údolí řeky Neretvy. Kvůli své výjimečné poloze se zde dodnes nachází vojenský objekt s telekomunikační věží a ozbrojenou posádkou. Opět na vás musíme důrazně apelovat : Za závoru v žádném případě nevstupujte!!!! Díky za respektování.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 17
+    },
+    {
+      "roadbookOrder": 40,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.5759042,
+        "lon": 17.5238611
+      },
+      "description": "PRŮJEZDNÝ BOD 43.5759042N, 17.5238611E",
+      "taskType": "",
+      "image": ""
+    }
+  ]
+}
+{
+  "expedition": {
+    "name": "Expedice Pilátů z Kalibiku",
+    "version": "1.0"
+  },
+  "points": [
+    {
+      "roadbookOrder": 41,
+      "type": "checkpoint",
+      "title": "Checkpoint 18",
+      "gps": {
+        "lat": 43.5502495,
+        "lon": 17.4946769
+      },
+      "description": "18. 43.5502495N, 17.4946769E – Vyhlídka na skály – ŠTÍTEK Z Pločna vypadají tyto obří skalní masivy opravdu majestátně a rozhodně stojí za to podívat se na ně i z této lokality. Dál vás za odměnu čeká příjemná šotolinová cesta opravdu nádhernou přírodou.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 18
+    },
+    {
+      "roadbookOrder": 42,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.4921051,
+        "lon": 17.5745069
+      },
+      "description": "PRŮJEZDNÝ BOD 43.4921051N, 17.5745069E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 43,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.4669085,
+        "lon": 17.7112878
+      },
+      "description": "PRŮJEZDNÝ BOD 43.4669085N, 17.7112878E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 44,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.4546812,
+        "lon": 17.8299786
+      },
+      "description": "PRŮJEZDNÝ BOD A TYP NA KOUPAČKU V ŘECE + SPRCHY 43.4546812N, 17.8299786E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 45,
+      "type": "checkpoint",
+      "title": "Checkpoint 19",
+      "gps": {
+        "lat": 43.4616305,
+        "lon": 17.9565594
+      },
+      "description": "19. 43.4616305N, 17.9565594E Vyhlídka na Mostar – ŠTÍTEK",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 19
+    },
+    {
+      "roadbookOrder": 46,
+      "type": "checkpoint",
+      "title": "Checkpoint 20",
+      "gps": {
+        "lat": 43.5022688,
+        "lon": 18.0291202
+      },
+      "description": "20. 43.5022688N, 18.0291202E – Nekropole – ÚKOL Jedná se o soubor středověkých pohřebišť s unikátními monolitickými náhrobky zvanými stećci. Tento region patří k oblastem s největší koncentrací těchto památek, z nichž mnohé jsou zapsány na seznamu světového dědictví UNESCO. Pocházejí z období od 12. do 16. století.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 20
+    },
+    {
+      "roadbookOrder": 47,
+      "type": "waypoint",
+      "title": "Průjezdný bod",
+      "gps": {
+        "lat": 43.5333407,
+        "lon": 18.0869203
+      },
+      "description": "PRŮJEZDNÝ BOD 43.5333407N, 18.0869203E",
+      "taskType": "",
+      "image": ""
+    },
+    {
+      "roadbookOrder": 48,
+      "type": "checkpoint",
+      "title": "Checkpoint 21",
+      "gps": {
+        "lat": 43.545692,
+        "lon": 18.1032864
+      },
+      "description": "21. 43.5456920N, 18.1032864E Pomník se studánkou s pitnou vodou – ÚKOL Na památníku je nahoře citát v arabštině a bosensky: „Neříkejte o těch, kteří padli na Boží cestě, že jsou mrtví. Ne, oni jsou živí, ale vy to nevnímáte.“ Jde o citát z Koránu (2:154), který se často používá na pomnících padlých bosenských vojáků muslimského vyznání.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 21
+    },
+    {
+      "roadbookOrder": 49,
+      "type": "checkpoint",
+      "title": "Checkpoint 22",
+      "gps": {
+        "lat": 43.5649825,
+        "lon": 18.1171308
+      },
+      "description": "22. 43.5649825N, 18.1171308E – ÚKOL",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 22
+    },
+    {
+      "roadbookOrder": 50,
+      "type": "checkpoint",
+      "title": "Checkpoint 23",
+      "gps": {
+        "lat": 43.5894544,
+        "lon": 18.1472945
+      },
+      "description": "23. 43.5894544N, 18.1472945E Vyhlídka na Blatačko jezero a Lukomir – ŠTÍTEK Před vámi se otevírá pohled na kaňon řeky Rakitnice, nejhlubší kaňon Bosny a Hercegoviny. Strmé skalní stěny, které místy padají více než 800 metrů k řece, vytvářejí jednu z nejúchvatnějších přírodních scenérií celé země. Pokud jste s námi jeli minulou expedici, možná vám bude toto místo povědomé. Loni jsme projížděli po druhé straně kaňonu přes horskou vesnici Lukomir, nejvýše položenou trvale obydlenou vesnici Bosny a Hercegoviny. Právě odtud jste se dívali sem. Dnes stojíte na opačné straně kaňonu a můžete si celý masiv prohlédnout z úplně jiné perspektivy.",
+      "taskType": "",
+      "image": "",
+      "checkpointNumber": 23
+    }
+  ]
+}
