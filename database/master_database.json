@@ -1,43 +1,50 @@
 {
-  "expedition": {
-    "name": "Expedice Pilátů z Kalibiku",
-    "version": "0.1"
+  "roadbookOrder": 1,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.8122833,
+    "lon": 17.6371163
   },
-
-  "points": [
-    {
-      "roadbookOrder": 1,
-      "type": "waypoint",
-      "title": "Vyhlídka",
-      "gps": {
-        "lat": 44.8122833,
-        "lon": 17.6371163
-      },
-      "summary": "Vyhlídka s posezením."
-    },
-
-    {
-      "roadbookOrder": 2,
-      "type": "checkpoint",
-      "checkpointNumber": 1,
-      "title": "První offroad",
-      "gps": {
-        "lat": 44.8074706,
-        "lon": 17.6626442
-      },
-      "summary": "Přejezdů po silnicích bylo dost, dáme si lehký offroad.",
-      "description": "Zde bude celý text z roadbooku."
-    },
-
-    {
-      "roadbookOrder": 3,
-      "type": "waypoint",
-      "title": "Vyhlídka na údolí",
-      "gps": {
-        "lat": 44.7688459,
-        "lon": 17.6508282
-      },
-      "summary": "Krásný výhled."
-    }
-  ]
+  "summary": "Průjezdný bod na začátku expedice.",
+  "description": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 2,
+  "type": "checkpoint",
+  "checkpointNumber": 1,
+  "title": "Checkpoint 1",
+  "gps": {
+    "lat": 44.8074706,
+    "lon": 17.6626442
+  },
+  "summary": "Lehký offroad na začátek expedice.",
+  "description": "Přejezdů po silnicích bylo dost, dáme si na začátek trochu lehčího offroadu. Za tímto bodem k bodu dva a i u něho je dostatek prostoru na vaše případné kempování první noc expedice.",
+  "taskType": "ÚKOL",
+  "image": ""
+},
+{
+  "roadbookOrder": 3,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.7688459,
+    "lon": 17.6508282
+  },
+  "summary": "Vyhlídka s posezením, ideální místo třeba na snídani.",
+  "description": "",
+  "image": ""
+},
+{
+  "roadbookOrder": 4,
+  "type": "waypoint",
+  "title": "Průjezdný bod",
+  "gps": {
+    "lat": 44.6251573,
+    "lon": 17.5745202
+  },
+  "summary": "Pokračování po doporučené trase.",
+  "description": "",
+  "image": ""
 }
