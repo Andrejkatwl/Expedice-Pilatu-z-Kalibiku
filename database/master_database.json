@@ -1,7 +1,15 @@
 {
   "expedition": {
     "name": "Expedice Pilátů z Kalibiku",
-    "year": 2026
+    "version": "0.1",
+    "year": 2026,
+    "authors": [
+      "Andrea Svobodová",
+      "Tomáš"
+    ]
   },
-  "checkpoints": []
+
+  "checkpoints": [
+
+  ]
 }
